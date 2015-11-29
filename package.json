@@ -1,0 +1,12 @@
+{
+  "name": "pageMaker",
+  "version": "0.0.1",
+  "description": "edp project",
+  "dependencies": {
+    "edp-provider-rider": "^0.4.5"
+  },
+  "author": "",
+  "repository": "empty",
+  "license": "BSD",
+  "readme": "README"
+}
